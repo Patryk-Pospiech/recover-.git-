@@ -1,7 +1,7 @@
 
 simple tool to recover .gitl folder on remote server. 
 
-Usage: scrabble <url > 
+Usage: scrabble <url>
 
 Example: **scrabble htttp://example.com/ **
 
